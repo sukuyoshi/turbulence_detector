@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 data/
 check_comments.py
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
